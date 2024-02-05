@@ -1,0 +1,16 @@
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\bin\Debug\ProiectBD.exe.config
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\bin\Debug\ProiectBD.exe
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\bin\Debug\ProiectBD.pdb
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\bin\Debug\Dapper.dll
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\bin\Debug\Dapper.xml
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\obj\Debug\ProiectBD.csproj.AssemblyReference.cache
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\obj\Debug\ProiectBD.csproj.SuggestedBindingRedirects.cache
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\obj\Debug\ProiectBD.DashBoard.resources
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\obj\Debug\ProiectBD.Properties.Resources.resources
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\obj\Debug\ProiectBD.csproj.GenerateResource.cache
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\obj\Debug\ProiectBD.csproj.CoreCompileInputs.cache
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\obj\Debug\ProiectBD.csproj.CopyComplete
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\obj\Debug\ProiectBD.exe
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\obj\Debug\ProiectBD.pdb
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\obj\Debug\ProiectBD.Login.resources
+F:\ANUL 3\BD\Proiect\Interfata\ProiectBD\obj\Debug\ProiectBD.Modificare_Tabele.resources
